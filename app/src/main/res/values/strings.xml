@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">App Equipos</string>
+
+    <string name="select_ip">SELECCIONAR IP</string>
+
+    <string name="conexion">IP a la que conectar:</string>
+    <string name="conexionbt">Conectar</string>
+
+    <string name="plantilla">ver jugadores</string>
+    <string name="add">Añadir Jugador</string>
+    <string name="addEquipo">Añadir Equipo</string>
+
+    <string name="crearEquipo">Añadir Equipo</string>
+    <string name="crearJugador">Añadir Jugador</string>
+    <string name="editar">Editar</string>
+
+    <string name="dialogoTitulo">Eliminar equipo seleccionado</string>
+    <string name="dialogoMensaje">¿Eliminar equipo?</string>
+    <string name="confirmacion">Sí</string>
+    <string name="cancelar">No</string>
+
+    <string name="nombre">Nombre Club</string>
+    <string name="estadio">Estadio</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="aforo">Aforo</string>
+    <string name="error">Faltan campos por rellenar</string>
+
+    <string name="nombreJugador">Nombre Jugador</string>
+    <string name="apellidos">Apellidos </string>
+    <string name="favVerJugadores">Ver Jugadores</string>
+
+
+</resources>
